@@ -17,7 +17,7 @@ The Driver Drowsiness Detection System is an application that monitors a driver'
     python drowsiness_detection.py
 
      ### Models
-    - The trained model concat.h5 is available for download.
+    - The trained model concat2.h5 is available for download.
     - Due to size limitations on GitHub, it's hosted on Google Drive.
     - It can be downloaded from the following link:
       [Download Concatenated Model](https://drive.google.com/drive/folders/1-3QSZMoDz40UwMFqZ4wcC_Fu2wIa3Fwg?usp=sharing)
